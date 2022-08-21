@@ -240,7 +240,7 @@ justification=raggedright]{caption}
 \chead{}%
 \rhead{\thepage/\pageref{LastPage}}
 % Footers
-\lfoot{\sffamily\small\bfseries\@PaperType}%
+\lfoot{\sffamily\small\bfseries\ https://github.com/SebastiaanCuypers0/-rm-2122-paper-rmcuypers.git}%
 \cfoot{}%
 \rfoot{\includegraphics[height=1.1cm]{img/HOGENT_Logo_Pos_rgb.png}}%
 \renewcommand{\headrulewidth}{0pt}% % No header rule
